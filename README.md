@@ -1,0 +1,1 @@
+compile all programs asgcc <file_name> -lpthreadand then run executable./a.out
